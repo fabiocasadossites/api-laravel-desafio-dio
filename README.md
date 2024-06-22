@@ -33,7 +33,7 @@ Lista todas as bandas
 
 Lista a banda pelo ID
 ````
-/api/bands\1
+/api/bands/1
 ````
 
 Lista a banda pelo gênero (gender)
